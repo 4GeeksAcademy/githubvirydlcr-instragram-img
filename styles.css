@@ -1,0 +1,15 @@
+
+
+.post{
+    background-color: aliceblue;
+display: flex;
+}
+.post-icons{
+    display: flex;
+}
+.post-img {
+    border: 1px solid #dd5555;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+  }
